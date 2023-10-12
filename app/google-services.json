@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439557244089",
+    "project_id": "myloveinline",
+    "storage_bucket": "myloveinline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439557244089:android:e91bb070357ad03e184768",
+        "android_client_info": {
+          "package_name": "com.jk.myloveinline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439557244089-el8r1he6rv5pt3ra6bgj5bbb0pldbjrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByj4Qyu11pEanTKhcM7VZhZkMev9VlVCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439557244089-el8r1he6rv5pt3ra6bgj5bbb0pldbjrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
